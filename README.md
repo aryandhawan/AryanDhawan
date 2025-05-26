@@ -1,4 +1,4 @@
-## Hi there 👋 I am Aryan Dhawan/
+## Hi there 👋 I am Aryan Dhawan
 Welcome to my GitHub profile!
 I’m an aspiring AI/ML engineer from Ahmedabad, Gujarat, India, passionate about building intelligent solutions and eager to gain real-world experience through internships.
 
