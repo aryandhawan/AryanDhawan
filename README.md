@@ -35,7 +35,7 @@ Project Name: Workforce-attrition predictor- this is my project used to predict,
 
  Let’s Collaborate: I’m excited to work on challenging projects and learn from experienced teams.
 
-📫 Contact Me: [AryanDhawan2802@gmail.com]
+📫 Contact Me: [Aryandhawan2802@gmail.com]
 
 🌐 https://www.linkedin.com/in/aryan-dhawan-40760a160/- This is my LinkedIn profile. Feel free to approach me!
 
