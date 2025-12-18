@@ -26,9 +26,19 @@ Frameworks/Libraries: scikit-learn, TensorFlow, PyTorch, (DL is a much deeper su
 Tools: Jupyter, Git and web-scraping 
 
  Featured Projects
-Project Name: CryptoSense- this is my first AI/ML-based project to solve a real-world problem that helps to predict the market trends in cryptocurrency. This uses a RandomForest classifier Model for prediction.
+Project Name: CryptoSense- this is my first AI/ML-based project to solve a real-world problem that helps to predict the market trends in cryptocurrency. This uses a RandomForest classifier Model for prediction. 
 
-Project Name: Workforce-attrition predictor- this is my project used to predict, based on HR data, how much of the actual workforce can be replaced by AI, and it uses the Logistic Regression model with ElasticNet penalty, and this has been hypertuned with the GridSearchCV
+Project Names: 
+
+1.Workforce-attrition predictor- this is my project used to predict, based on HR data, how much of the actual workforce can be replaced by AI, and it uses the Logistic Regression model with ElasticNet penalty, and this has been hypertuned with the GridSearchCV
+
+2. AI semantic Recommender system - this project is made using HuggingFace Transformers and via pandas and numpy for data preprocessing
+
+Certificationss: 
+
+1. Udemy certified python pro developer --> credential URL : https://www.udemy.com/certificate/UC-80a90a6f-d233-436c-8f91-f6118f6a7fd7/
+
+2. Udemy Certified data science and machine learning developer --> https://www.udemy.com/certificate/UC-abe3c269-01b2-483a-8729-ef267dec66e5/
 
 🤝 Let’s Connect!
 🌟 Open to Internship Opportunities: Especially in AI/ML, data science, or software development.
