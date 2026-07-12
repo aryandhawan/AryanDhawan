@@ -1,53 +1,82 @@
-## Hi there 👋 I am Aryan Dhawan
-Welcome to my GitHub profile!
-I’m an aspiring AI/ML engineer from Ahmedabad, Gujarat, India, passionate about building intelligent solutions and eager to gain real-world experience through internships.
+# Aryan Dhawan
 
- About Me
- AI/ML Enthusiast: I’m fascinated by the power of artificial intelligence and machine learning to solve complex, real-world problems.
+**AI/ML Engineer · LLM Engineering · RAG Architecture · MLOps & LLMOps**
+📍 Ahmedabad, Gujarat, India
+📩 aryan@tandem-ai.tech
+🔗 [LinkedIn](https://www.linkedin.com/in/aryan-dhawan-40760a160/) · [Portfolio](https://aryan-dhawan.vercel.app)
 
-💡 Driven Learner: I’m constantly exploring new technologies, algorithms, and best practices in AI/ML.
+---
 
- Hands-On Creator: I love turning ideas into working code, whether a simple GUI app or a scalable AI-powered solution.
+## About Me
 
- Currently Seeking: Internship opportunities where I can apply my skills, learn from experienced mentors, and contribute to impactful projects.
+I'm a third-year Computer Science student at GLS University who has been building seriously in AI/ML since year one — not following tutorials, but going deep.
 
-🏆 What Motivates Me
-Curiosity: I’m always eager to learn, experiment, and discover new ways to make technology work smarter.
+Textbook-level Machine Learning in year one. Deep Learning in year two. Now LLM Engineering, RAG architecture, MLOps, LLMOps, and cloud deployment in year three.
 
-Growth: I value feedback and mentorship and am committed to continuous improvement.
+I've already deployed a **live AI-powered Google review automation system** for a real commercial client — running daily, in production. Not a demo. A real working system.
 
-Teamwork: I enjoy collaborating with others, sharing knowledge, and building solutions together.
+I'm currently seeking a **paid internship** at an AI-first startup or research lab where I can contribute real work, grow fast, and build alongside people who are shipping things that matter.
 
- My Tech Stack
-Languages: Python, C language, HTML, CSS
+---
 
-Frameworks/Libraries: scikit-learn, TensorFlow, PyTorch, (DL is a much deeper subject, so TensorFlow and PyTorch are still in progress.)
+## Tech Stack
 
-Tools: Jupyter, Git and web-scraping 
+**Languages:** Python, C, HTML, CSS
 
- Featured Projects
-Project Name: CryptoSense- this is my first AI/ML-based project to solve a real-world problem that helps to predict the market trends in cryptocurrency. This uses a RandomForest classifier Model for prediction. 
+**AI/ML:** PyTorch, TensorFlow, Scikit-Learn, HuggingFace Transformers, LangChain, LangGraph
 
-Project Names: 
+**LLM & RAG:** OpenAI SDK, Gemini SDK, Groq, Ollama, ChromaDB, RAG pipeline architecture, Prompt Engineering, LLM cost optimization
 
-1.Workforce-attrition predictor- this is my project used to predict, based on HR data, how much of the actual workforce can be replaced by AI, and it uses the Logistic Regression model with ElasticNet penalty, and this has been hypertuned with the GridSearchCV
+**MLOps & LLMOps:** MLflow, DagsHub, Docker, GitHub Actions, Azure, AWS
 
-2. AI semantic Recommender system - this project is made using HuggingFace Transformers and via pandas and numpy for data preprocessing
+**Backend & Deployment:** FastAPI, Flask, Streamlit, PostgreSQL, Redis, Cloudflare
 
-Certificationss: 
+**Tools:** Git, Jupyter, Web Scraping (BeautifulSoup, Selenium)
 
-1. Udemy certified python pro developer --> credential URL : https://www.udemy.com/certificate/UC-80a90a6f-d233-436c-8f91-f6118f6a7fd7/
+---
 
-2. Udemy Certified data science and machine learning developer --> https://www.udemy.com/certificate/UC-abe3c269-01b2-483a-8729-ef267dec66e5/
+## Featured Work
 
-🤝 Let’s Connect!
-🌟 Open to Internship Opportunities: Especially in AI/ML, data science, or software development.
+### 🚀 Live Client Project — AI Review Automation System
+Built and deployed a production-grade AI-powered Google Business Profile review automation system for a Pune-based industrial manufacturer. The system automatically analyzes incoming reviews, drafts contextually accurate replies, and provides a sentiment dashboard — running daily in production for a real commercial client.
+`FastAPI` `Groq` `React` `Make.com` `WhatsApp API` `Cloudflare`
 
- Let’s Collaborate: I’m excited to work on challenging projects and learn from experienced teams.
+---
 
-📫 Contact Me: [Aryandhawan2802@gmail.com]
+## Projects
 
-🌐 https://www.linkedin.com/in/aryan-dhawan-40760a160/- This is my LinkedIn profile. Feel free to approach me!
+### ⚡ Reverse Proxy AI Gateway — Multi-Provider LLM Routing Infrastructure
+A fault-tolerant, production-grade AI gateway that routes LLM requests across multiple providers with intelligent failover. Features Redis-based circuit breakers, distributed rate limiting, async PostgreSQL telemetry, and a real-time Streamlit observability dashboard for AI-based infrastructure monitoring. Deployed with Docker Compose, Caddy SSL, and Azure cloud infrastructure.
+`Python` `FastAPI` `Redis` `PostgreSQL` `Docker` `Caddy` `Azure` `Streamlit` `LLM Routing`
 
-Thank you for visiting my profile!
-I’m ready to learn, contribute, and grow—let’s build something amazing together
+---
+
+### 🧠 RAG Knowledge Bot — Production AI/ML Q&A System
+End-to-end Retrieval Augmented Generation pipeline built on a custom synthetic AI/ML corpus (32 markdown files, 96 Q&A pairs). Features RecursiveCharacterTextSplitter chunking, HuggingFace all-mpnet-base-v2 embeddings, ChromaDB vector store, and ChatGroq/Llama 3.3 70B generation. Deployed on Azure VM (Standard_B2als_v2) with Docker, GitHub Actions CI/CD, Caddy reverse proxy, and a Streamlit UI — served at a live domain.
+`Python` `LangChain` `ChromaDB` `HuggingFace` `Groq` `Llama 3.3 70B` `Docker` `GitHub Actions` `Azure` `Caddy` `Streamlit`
+
+---
+
+## Certifications
+
+- [Python Pro Developer — Udemy](https://www.udemy.com/certificate/UC-80a90a6f-d233-436c-8f91-f6118f6a7fd7/)
+- [Data Science & Machine Learning — Udemy](https://www.udemy.com/certificate/UC-abe3c269-01b2-483a-8729-ef267dec66e5/)
+
+---
+
+## What I Bring to an Internship
+
+- Genuine depth — I understand the math and architecture underneath the tools, not just how to call them
+- Production experience — I've shipped a real system for a real client, not just academic projects
+- Fast learner with a bias toward building — I move from concept to working code quickly
+- Comfortable with ambiguity — I've built solo, end-to-end, with no one to hand problems off to
+
+---
+
+## Let's Talk
+
+If you're building something serious in AI and need someone who can contribute from day one —
+
+📩 aryan@tandem-ai.tech
+🔗 [LinkedIn](https://www.linkedin.com/in/aryan-dhawan-40760a160/)
+🌐 [Portfolio](https://aryan-dhawan.vercel.app)
