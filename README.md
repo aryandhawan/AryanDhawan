@@ -61,7 +61,7 @@ End-to-end Retrieval Augmented Generation pipeline built on a custom synthetic A
 
 - [Python Pro Developer — Udemy](https://www.udemy.com/certificate/UC-80a90a6f-d233-436c-8f91-f6118f6a7fd7/)
 - [Data Science & Machine Learning — Udemy](https://www.udemy.com/certificate/UC-abe3c269-01b2-483a-8729-ef267dec66e5/)
-
+-  [MLOps with end-to-end project making — Udemy](https://www.udemy.com/certificate/UC-c2840053-ba1a-422d-901e-7b40faf7de1d/)
 ---
 
 ## What I Bring to an Internship
