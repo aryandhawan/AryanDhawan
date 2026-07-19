@@ -1,5 +1,8 @@
 # Aryan Dhawan
 
+## **Founder of Tandem AI Labs**
+
+
 **AI/ML Engineer · LLM Engineering · RAG Architecture · MLOps & LLMOps**
 📍 Ahmedabad, Gujarat, India
 📩 aryan@tandem-ai.tech
