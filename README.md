@@ -67,12 +67,13 @@ End-to-end Retrieval Augmented Generation pipeline built on a custom synthetic A
 -  [MLOps with end-to-end project making — Udemy](https://www.udemy.com/certificate/UC-c2840053-ba1a-422d-901e-7b40faf7de1d/)
 ---
 
-## What I Bring to an Internship
+## What Tandem AI Labs Brings
 
-- Genuine depth — I understand the math and architecture underneath the tools, not just how to call them
-- Production experience — I've shipped a real system for a real client, not just academic projects
-- Fast learner with a bias toward building — I move from concept to working code quickly
-- Comfortable with ambiguity — I've built solo, end-to-end, with no one to hand problems off to
+- Genuine depth — Every system is built on real understanding of the architecture underneath, not just API calls stitched together with no-code tools
+- Production experience — Live systems running for real clients today, not demos or academic exercises
+- End-to-end ownership — From the first business audit to final deployment, one person holds the full context of your project — no hand-offs, no diluted communication
+- Fast execution, real rigor — Moves from concept to working, deployed system quickly, without cutting corners on evaluation, monitoring, or reliability
+- Comfortable with ambiguity — Solves problems end-to-end, in unfamiliar domains, without a playbook to follow
 
 ---
 
